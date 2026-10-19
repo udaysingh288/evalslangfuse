@@ -1,4 +1,4 @@
-anthropic
-langfuse
+langchain>=1.4
+langchain-anthropic
 python-dotenv
-pytest
+streamlit
